@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desapego | Enzo Ferigolo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Great+Vibes&family=Oswald:wght@200..700&display=swap"
+      rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <div>
+        <h1>Meu Desapego</h1>
+        <h2>por Enzo Ferigolo</h2>
+      </div>
+
+      <nav>
+        <a href="#Calças">Calças</a>
+        <a href="#Jaquetas e Camisetas">Jaquetas e Camisas</a>
+        <a href="#Moletons">Moletons</a>
+        <a href="#Camisetas">Camisetas</a>
+      </nav>
+    </header>
+    <% for( const categoria in roupas) { %>
+    <section id="<%= categoria %>">
+      <h2><%= categoria %></h2>
+      <% roupas[categoria].forEach(item => { %>
+      <div>
+        <img src="<%= item.imagem %>" alt="" />
+        <p><%= item.descricao %></p>
+        <p>tamanho: <strong><%= item.tamanho %></strong></p>
+        <span>R$<%= item.preço %></span>
+      </div>
+      <% }) %>
+    </section>
+    <% } %>
+  </body>
+</html>

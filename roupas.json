@@ -1,0 +1,300 @@
+{
+  "Destaques": [
+    {
+      "tamanho": "40",
+      "preço": 50,
+      "descricao": "calça SHEIN quadriculada (nunca usada!)",
+      "imagem": "imgs/item-4.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 80,
+      "descricao": "corta vento RESERVA com estampa nas costas, coleção NY (nunca usado)",
+      "imagem": "imgs/item-13.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 80,
+      "descricao": "jaqueta SHEIN jeans rosa rasgada nas mangas (nunca usada)",
+      "imagem": "imgs/item-15.png"
+    },
+    {
+      "tamanho": "p (ajustável)",
+      "preço": 35,
+      "descricao": "jardineira em estampa militar",
+      "imagem": "imgs/item-16.png"
+    },
+    {
+      "tamanho": "l (serve bem M)",
+      "preço": 45,
+      "descricao": "moletom verde musgo Abercrombie & Fitch original importada do Vietnã",
+      "imagem": "imgs/item-24.png"
+    }
+  ],
+  "Calças": [
+    {
+      "tamanho": "m",
+      "preço": 30,
+      "descricao": "calça jogger estilo jeans com elastano",
+      "imagem": "imgs/item-0.png"
+    },
+    {
+      "tamanho": "42",
+      "preço": 30,
+      "descricao": "calça jeans azul marinho",
+      "imagem": "imgs/item-1.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 40,
+      "descricao": "calça Approve vermelha com tiras brancas",
+      "imagem": "imgs/item-2.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 40,
+      "descricao": "calça jogger Youcom cor gelo",
+      "imagem": "imgs/item-3.png"
+    },
+    {
+      "tamanho": "40",
+      "preço": 50,
+      "descricao": "calça SHEIN quadriculada (nunca usada!)",
+      "imagem": "imgs/item-4.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 20,
+      "descricao": "calça moletom BOOHOOMAN original",
+      "imagem": "imgs/item-5.png"
+    },
+    {
+      "tamanho": "40",
+      "preço": 30,
+      "descricao": "calça skinny jeans vestilo destroyed",
+      "imagem": "imgs/item-6.png"
+    },
+    {
+      "tamanho": "40",
+      "preço": 25,
+      "descricao": "calça jeans verde musgo",
+      "imagem": "imgs/item-7.png"
+    },
+    {
+      "tamanho": "40",
+      "preço": 40,
+      "descricao": "calça SHEIN com costura branca estilo pantalon",
+      "imagem": "imgs/item-8.png"
+    },
+    {
+      "tamanho": "38",
+      "preço": 25,
+      "descricao": "calça jogger estampa militar",
+      "imagem": "imgs/item-10.png"
+    },
+    {
+      "tamanho": "40",
+      "preço": 45,
+      "descricao": "calça de afaiataria BOOHOOMAN original",
+      "imagem": "imgs/item-26.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 30,
+      "descricao": "cropped TACO sem manga, ombro largo (nunca usado)",
+      "imagem": "imgs/item-41.png"
+    }
+  ],
+  "Jaquetas e Camisetas": [
+    {
+      "tamanho": "m",
+      "preço": 60,
+      "descricao": "blusão ZARA listrado (usado 1 única vez)",
+      "imagem": "imgs/item-9.png"
+    },
+    {
+      "tamanho": "p (serve m)",
+      "preço": 40,
+      "descricao": "jaqueta jeans com mangas em moletom GANG",
+      "imagem": "imgs/item-11.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 40,
+      "descricao": "camisa poliestileno GANG",
+      "imagem": "imgs/item-12.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 80,
+      "descricao": "corta vento RESERVA com estampa nas costas, coleção NY (nunca usado)",
+      "imagem": "imgs/item-13.png"
+    },
+    {
+      "tamanho": "4",
+      "preço": 30,
+      "descricao": "camisa social slin (grande) vermelha",
+      "imagem": "imgs/item-14.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 80,
+      "descricao": "jaqueta SHEIN jeans rosa rasgada nas mangas (nunca usada)",
+      "imagem": "imgs/item-15.png"
+    },
+    {
+      "tamanho": "p (ajustável)",
+      "preço": 35,
+      "descricao": "jardineira em estampa militar",
+      "imagem": "imgs/item-16.png"
+    },
+    {
+      "tamanho": "gg (ou oversized kk)",
+      "preço": 40,
+      "descricao": "camisa social Franco Giorgi original (usada somente 1 vez)",
+      "imagem": "imgs/item-17.png"
+    }
+  ],
+  "Moletons": [
+    {
+      "tamanho": "m",
+      "preço": 25,
+      "descricao": "moletom preto com listras refletoras",
+      "imagem": "imgs/item-18.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 35,
+      "descricao": "moletom com listras em azul escuro",
+      "imagem": "imgs/item-19.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 40,
+      "descricao": "moletom amarelo mostarda GANG",
+      "imagem": "imgs/item-20.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 35,
+      "descricao": "moletom laranja em algodão",
+      "imagem": "imgs/item-21.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 30,
+      "descricao": "blusa rosa BOOHOOMAN original com gola alta e elastano",
+      "imagem": "imgs/item-22.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 30,
+      "descricao": "moletom cinza SHEIN",
+      "imagem": "imgs/item-23.png"
+    },
+    {
+      "tamanho": "l (serve bem M)",
+      "preço": 45,
+      "descricao": "moletom verde musgo Abercrombie & Fitch original importada do Vietnã",
+      "imagem": "imgs/item-24.png"
+    }
+  ],
+  "Camisetas": [
+    {
+      "tamanho": "m",
+      "preço": 25,
+      "descricao": "camisa azul estampa NY",
+      "imagem": "imgs/item-27.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 20,
+      "descricao": "camiseta amarela SHEIN ✨positivity✨",
+      "imagem": "imgs/item-28.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 20,
+      "descricao": "camiseta GANG básica preta",
+      "imagem": "imgs/item-29.png"
+    },
+    {
+      "tamanho": "p",
+      "preço": 30,
+      "descricao": "camiseta Calvin Klein original (usada 1 única vez)",
+      "imagem": "imgs/item-30.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 20,
+      "descricao": "camiseta roxa com estampa florida",
+      "imagem": "imgs/item-31.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 20,
+      "descricao": "camiseta cinza OG original (nunca usada)",
+      "imagem": "imgs/item-32.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 20,
+      "descricao": "camiseta cinza escura DUMP",
+      "imagem": "imgs/item-33.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 20,
+      "descricao": "camiseta rosa QUIVER",
+      "imagem": "imgs/item-34.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 15,
+      "descricao": "camiseta rosa",
+      "imagem": "imgs/item-35.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 25,
+      "descricao": "camiseta long vermelha 100% algodão egípcio",
+      "imagem": "imgs/item-36.png"
+    },
+    {
+      "tamanho": "p (serve m)",
+      "preço": 15,
+      "descricao": "camiseta vermelha com estampa",
+      "imagem": "imgs/item-37.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 15,
+      "descricao": "regata GANG com detalhe de zíper nas laterais",
+      "imagem": "imgs/item-38.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 15,
+      "descricao": "camiseta preta com escrita NEXT",
+      "imagem": "imgs/item-39.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 10,
+      "descricao": "camiseta branca MANGA LONGA com furo nos ombros",
+      "imagem": "imgs/item-40.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 30,
+      "descricao": "cropped TACO sem manga, ombro largo (nunca usado)",
+      "imagem": "imgs/item-41.png"
+    },
+    {
+      "tamanho": "m",
+      "preço": 40,
+      "descricao": "camiseta térmica branca PRAXIS, gola em V, FPS 50 (usada 1 única vez)",
+      "imagem": "imgs/item-42.png"
+    }
+  ]
+}
