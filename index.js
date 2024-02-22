@@ -13,3 +13,5 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
   console.log(`Servidor ouvindo na porta ${port}.`);
 });
+
+console.log("img/item-1.png")

@@ -28,15 +28,25 @@
     <% for( const categoria in roupas) { %>
     <section id="<%= categoria %>">
       <h2><%= categoria %></h2>
-      <% roupas[categoria].forEach(item => { %>
-      <div>
+      <% roupas[categoria].forEach(item => { %> <% const itemImagem =
+      item.imagem.split(/[-:.]/)[1] %>
+      <a
+        href="https://wa.me/5555981454784?text=Oi,%20Enzo!%20Gostei%20da%20roupa%20<%= itemImagem %>!">
         <img src="<%= item.imagem %>" alt="" />
         <p><%= item.descricao %></p>
         <p>tamanho: <strong><%= item.tamanho %></strong></p>
         <span>R$<%= item.preço %></span>
-      </div>
+      </a>
       <% }) %>
     </section>
     <% } %>
+    <script>
+      const divs = document.querySelectorAll("section div");
+      divs.forEach((div) => {
+        div.addEventListener("click", (event) => {
+          console.log(this);
+        });
+      });
+    </script>
   </body>
 </html>
